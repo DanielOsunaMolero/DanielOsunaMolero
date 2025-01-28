@@ -1,5 +1,6 @@
 
-(https://github.com/DanielOsunaMolero/DanielOsunaMolero/blob/main/coollogo_com-22644703.png)
+[](https://github.com/DanielOsunaMolero/DanielOsunaMolero/blob/main/coollogo_com-22644703.png)
+
 🎓 **Desarrollador en formación | 2º año DAW**  
 💻 Apasionado por el desarrollo web y la tecnología.  
 
