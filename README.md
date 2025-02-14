@@ -6,6 +6,6 @@
 💻 Apasionado por el desarrollo web y la tecnología.  
 
 🌐 **Intereses:** Frontend, Backend, diseño UI/UX y bases de datos.  
-🛠️ **Stack:** HTML, CSS, JavaScript, PHP, MySQL.
+🛠️ **Stack:** HTML, HTML, CSS, JavaScript, PHP, MySQL, Scss
 
 
